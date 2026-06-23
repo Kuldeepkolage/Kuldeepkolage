@@ -50,14 +50,14 @@
   <tr>
     <td align="center"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart,cs,flutter" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,cs" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,materialui" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,tailwind,bootstrap,materialui,flutter" />
     </td>
   </tr>
 
@@ -76,16 +76,9 @@
   </tr>
 
   <tr>
-    <td align="center"><b>Cloud</b></td>
+    <td align="center"><b>Cloud & DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center"><b>DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,jenkins,terraform,prometheus,grafana" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,gitlab,jenkins,terraform,prometheus,grafana" />
     </td>
   </tr>
 </table>
