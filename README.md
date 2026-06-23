@@ -48,37 +48,46 @@
 
 <table align="center">
   <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart,cs,flutter" />
+    </td>
+  </tr>
+
+  <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,html,css,tailwind,bootstrap,vite,flutter" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,materialui" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>DevOps & Cloud</b></td>
+    <td align="center"><b>Cloud</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,nginx,linux,vercel,netlify,jenkins,kubernetes,terraform" />
+      <img src="https://skillicons.dev/icons?i=aws" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,jenkins,terraform,prometheus,grafana" />
     </td>
   </tr>
 </table>
+
+---
