@@ -48,60 +48,37 @@
 
 <table align="center">
   <tr>
-    <td align="center"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart" />
-    </td>
-  </tr>
-
-  <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,vite,flutter,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,html,css,tailwind,bootstrap,vite,flutter" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>DevOps & Cloud</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,githubactions,jenkins,kubernetes,terraform" />
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,nginx,linux,vercel,netlify,jenkins,kubernetes,terraform" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>Tools</b></td>
+    <td align="center"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart" />
     </td>
   </tr>
 </table>
-
----
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile views" />
-</p>
