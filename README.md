@@ -87,8 +87,8 @@
   <img src="https://streak-stats.demolab.com?user=kuldeepkolage&theme=tokyonight&hide_border=false" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepkolage&theme=tokyonight&hide_border=false&layout=compact" />
-</p>
+</p> -->
 
 ---
