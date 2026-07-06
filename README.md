@@ -35,11 +35,10 @@
 
 ## 💫 About Me
 
-- 🎓 Third Year Information Technology Student at VCET
-- 📱 Flutter Developer Intern at A Tech
+- 🎓 Fourth Year Information Technology Student at VCET
 - ☁️ Currently learning DevOps, Docker, Linux, AWS & Cloud Technologies
 - 🚀 Building Full Stack Applications and Real-World Projects
-- 🏆 Deputy Treasurer - VCET Hackathon Committee
+- 🏆 Treasurer - VCET Hackathon Committee
 - 💡 Interested in Software Development, Cloud Computing & System Design
 
 ---
