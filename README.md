@@ -38,7 +38,6 @@
 - 🎓 Fourth Year Information Technology Student at VCET
 - ☁️ Currently learning DevOps, Docker, Linux, AWS & Cloud Technologies
 - 🚀 Building Full Stack Applications and Real-World Projects
-- 🏆 Treasurer - VCET Hackathon Committee
 - 💡 Interested in Software Development, Cloud Computing & System Design
 
 ---
